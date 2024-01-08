@@ -49,5 +49,14 @@ main {
 .date-published h3 {
   font-size: 16px;
   font-weight: 600;
-  margin: 15px;
+  margin: 14px;
+}
+
+.title h2 {
+  margin: 0 13px;
+  cursor: pointer;
+}
+
+.title h2:hover {
+  color: var(--yellow);
 }
