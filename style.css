@@ -36,3 +36,12 @@ main {
   display: block;
   border-radius: 10px;
 }
+
+.blog-category h3 {
+  background-color: var(--yellow);
+  width: max-content;
+  font-size: 16px;
+  padding: 5px 10px;
+  margin: 0 18px;
+  font-weight: 800;
+}
