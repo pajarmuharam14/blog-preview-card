@@ -55,8 +55,15 @@ main {
 .title h2 {
   margin: 0 13px;
   cursor: pointer;
+  font-weight: 800;
 }
 
 .title h2:hover {
   color: var(--yellow);
+}
+
+.description p {
+  margin: 14px;
+  color: var(--grey);
+  font-weight: 600;
 }
