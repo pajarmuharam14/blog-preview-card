@@ -82,3 +82,14 @@ main {
   font-size: 16px;
   margin: 0 10px;
 }
+
+@media (max-width: 480px) {
+  .container {
+    width: 350px;
+    height: 500px;
+  }
+
+  .ilustration img {
+    width: 300px;
+  }
+}
