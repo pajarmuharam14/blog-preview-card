@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://blog-preview-card-drab.vercel.app/
+- Solution URL:https://www.frontendmentor.io/solutions/blogpreviewcard-jtV8f_FqwE
+- Live Site URL:https://blog-preview-card-drab.vercel.app/
 
 ## My process
 
